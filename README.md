@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emilyleblanc
 - 👀 I’m interested in responsive web-design and accessibility.
 - 🌱 I’m currently learning custom hooks in React.
-- 💞️ I’m looking to collaborate on an app that connects seniors 
+- 💞️ I’m looking to collaborate on an app that connects seniors to volunteers who can help with simple tech needs during covid-19.
 - 📫 How to reach me emily.leblanc88@gmail.com
 
 <!---
