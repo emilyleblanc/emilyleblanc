@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emilyleblanc
 - 👀 I’m interested in responsive web-design, accessibility and tech education.
-- 🌱 I’m currently learning custom hooks in React.
+- 🌱 I’m currently learning Angular.
 - 📫 How to reach me emily.leblanc88@gmail.com
 
 <!---
